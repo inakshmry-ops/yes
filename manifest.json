@@ -1,11 +1,11 @@
 {
-    "name": "adminIndus",
-    "short_name": "adminIndus",
+    "name": "Indusind credit card services",
+    "short_name": "Indusind credit card services",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#99262B",
+    "theme_color": "#99262B",
+    "description": "Indusind Credit Cards offer secure, convenient, and rewarding payment solutions. Choose from a wide range of cards designed for shopping, travel, dining, and more—backed by the trust of Indusind Bank of India",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
